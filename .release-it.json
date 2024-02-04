@@ -1,4 +1,9 @@
 {
+	"hooks": [
+		"git pull",
+		"npm run lint",
+		"npm run build"
+	],
 	"git": {
 		"commitMessage": "chore: release v${version}",
 		"requireBranch": "main",
@@ -14,8 +19,16 @@
 		"@release-it/conventional-changelog": {
 			"infile": "CHANGELOG.md",
 			"preset": {
-				"name": "conventionalcommits",
+				"name": "angular",
 				"types": [
+					{
+						"type": "feat",
+						"section": "Features"
+					},
+					{
+						"type": "fix",
+						"section": "Bug Fixes"
+					},
 					{
 						"type": "feat",
 						"section": "Features"
