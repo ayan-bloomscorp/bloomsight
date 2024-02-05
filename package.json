@@ -23,9 +23,6 @@
 	"engines": {
 		"node": ">=20"
 	},
-	"config": {
-		host
-	},
 	"homepage": "https://github.com/ayan-bloomscorp/bloomsight",
 	"bugs": {
 		"url": "https://github.com/ayan-bloomscorp/bloomsight/issues"
