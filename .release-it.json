@@ -14,7 +14,7 @@
 	},
 	"github": {
 		"release": true,
-		"host": "https://github.com/ayan-bloomscorp/bloomsight"
+		"host": "https://github.com"
 	},
 	"npm": {
 		"publish": false
