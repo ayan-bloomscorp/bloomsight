@@ -1,5 +1,12 @@
 
 
+## [0.1.7](https://github.com/ayan-bloomscorp/bloomsight/compare/v0.1.6...v0.1.7) (2024-02-05)
+
+
+### Bug Fixes
+
+* package.json host ([3108964](https://github.com/ayan-bloomscorp/bloomsight/commit/31089643426ada405b249ba09073c942b0f0707f))
+
 ## [0.1.6](https://github.com/ayan-bloomscorp/bloomsight/compare/v0.1.5...v0.1.6) (2024-02-05)
 
 
