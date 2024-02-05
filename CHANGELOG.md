@@ -1,5 +1,12 @@
 
 
+## [0.1.5](https://github.com/ayan-bloomscorp/bloomsight/compare/v0.1.4...v0.1.5) (2024-02-05)
+
+
+### Bug Fixes
+
+* package.json ([fc1b4b1](https://github.com/ayan-bloomscorp/bloomsight/commit/fc1b4b122f95d12653ee20fbb20ef643057a88ae))
+
 ## [0.1.4](https://github.com/ayan-bloomscorp/bloomsight/compare/v0.1.3...v0.1.4) (2024-02-05)
 
 ## [0.1.3](https://github.com/ayan-bloomscorp/bloomsight/compare/0.1.1...v0.1.3) (2024-02-05)
