@@ -1,5 +1,7 @@
 
 
+## [0.1.4](https://github.com/ayan-bloomscorp/bloomsight/compare/v0.1.3...v0.1.4) (2024-02-05)
+
 ## [0.1.3](https://github.com/ayan-bloomscorp/bloomsight/compare/0.1.1...v0.1.3) (2024-02-05)
 
 
