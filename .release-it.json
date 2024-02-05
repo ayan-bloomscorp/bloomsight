@@ -13,7 +13,8 @@
 		"requireUpstream": false
 	},
 	"github": {
-		"release": true
+		"release": true,
+		"host": "https://github.com/ayan-bloomscorp/bloomsight"
 	},
 	"npm": {
 		"publish": false
