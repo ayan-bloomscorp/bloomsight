@@ -14,7 +14,7 @@
 	},
 	"github": {
 		"release": true,
-		"host": "https://github.com"
+		"host": "github.com"
 	},
 	"npm": {
 		"publish": false
